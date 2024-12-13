@@ -1,89 +1,73 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: CV
+title: Daxton Daniels' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Contact Information
+(435) 764-4376 | daxtondaniels@gmail.com | [LinkedIn Profile](www.linkedin.com/in/daxton-daniels-3a98a4236)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**Brigham Young University-Idaho** | Rexburg, ID  
+*B.S. - Accounting with Data Science Certificate* | Expected April 2025  
+GPA: 3.4, while working 25+ hours per week
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Skills
+MS Office, VBA, IDEA, Tableau, HTML, CSS, Javascript, MySQL, Python, Django
 
-- Sizar
+## Professional Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Fund Accountant | Alter Domus | Ogden, UT
+*April 2024-Present*
 
-- Fellow
+- Wrote VBA scripts to automate bank reconciliations and other processes saving my team 5 hours per month and an additional 10 hours per Quarter
+- Prepared quarterly, and annual financial statements for 13+ investment funds, ensuring compliance with GAAP
+- Calculated net asset values (NAVs) for multiple funds, ensuring timely and accurate reporting to investors
+- Collaborated with portfolio managers to analyze fund performance and prepared detailed reports for fund managers
 
+### Payment Processing Expert | Conservice | Logan, UT
+*December 2022-March 2024*
 
+- Improved my team's performance by writing a program in VBA improving our processes allowing my team to improve our overall performance by 5%
+- Managed 400+ accounts daily averaging double the company's standard
+- Coordinated with a team of 20 we discovered processes to optimize the company's efficiency
+- Adapted to a new role exceeding double the company's standard, within 2 months of starting
+- Optimized accounts allowing me to work with 99.8% accuracy; the company average was 95%
 
-## Awards
+### Executive Office Assistant | Brigham Young University - Idaho | Rexburg, ID
+*July 2022 - August 2022*
 
-`2012`
-President, *Royal Society*, London, UK
+- Resolved conflicts and confusion allowing for customer satisfaction of the highest degree
+- Organized and maintained appointments, incoming emails, faxes, and posts, often corresponding on behalf of Executives
+- Demonstrated exceptional emotional intelligence in the workplace, fostering positive relationships and effective communication with colleagues, clients, and superiors
 
-Associate, *French Academy of Science*, Paris, France
+### Shift Lead | Aloha Family Grill | Garden City, UT
+*June 2018 - July 2021*
 
+- Implemented a new system with my manager to improve efficiency of the restaurant, resulting in a 100% increase in efficiency
+- Conducted work in a high-intensity environment achieving a 4.7 star rating with 195+ reviews from clients
+- Supervised staff and ensured protocols were followed regarding food rotation and cleaning stations
+- Solved customer complaints in a tactful and timely manner
 
+### Customer Service Representative | Green Gorilla Car Wash | Logan, UT
+*November 2020 - April 2021*
 
-## Publications
+- Provided customer service to up to 500+ patrons daily
+- Guided patrons through the process of using unfamiliar equipment
+- Entrusted with the responsibility to count and balance registers at the beginning and end of store hours
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Volunteer Experience
 
-### Journals
+### South Africa Cape Town Mission
+*June 2021 - February 2022*
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Proselyted for 16 hours a day, teaching hundreds of hours worth of lessons, performing service projects for the needy, elderly, and disabled
+- Set daily, weekly, monthly, and yearly goals - individually and as a team
+- Managed the physical well-being and work of 10+ other team members
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2024 -->
